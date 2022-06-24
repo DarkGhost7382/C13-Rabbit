@@ -56,7 +56,6 @@ function createApples(){
  apple.velocityY = 3;
  apple.lifetime = 150;
 } 
-}
 
 function createOrange(){
   orange = createSprite (random(50, 350), 40, 10, 10); 
